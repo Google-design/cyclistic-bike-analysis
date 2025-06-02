@@ -119,8 +119,8 @@ Include screenshots or links to Tableau/GitHub:
 - 🕒 **Histogram**: Hourly Ride Distribution  
 - 📍 **Dashboard** or Station Analysis (via Tableau)
 
-![Average Trip Duration vs. Usertype](visuals\AVERAGE of trip_duration vs. usertype.png)
-![Average Duration vs. Day](visuals\average_duration vs. Weekday.png)
+![Average Trip Duration vs. Usertype](visuals\AVERAGE%20of%20trip_duration vs. usertype.png)
+![Average Duration vs. Day](visuals/average_duration%20vs.%20Weekday.png)
 
 [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/fnu.abdullah3101/viz/CyclisticMostPopularStations/Dashboard1)
 
