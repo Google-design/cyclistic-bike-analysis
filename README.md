@@ -113,11 +113,8 @@ Cyclistic, a bike-share program in Chicago, aims to increase revenue by converti
 
 ## 📈 Visualizations
 
-Include screenshots or links to Tableau/GitHub:
-
-- 📦 **Boxplot**: Ride Duration by User Type  
 - 📅 **Bar Chart**: Rides by Day of Week  
-- 🕒 **Histogram**: Hourly Ride Distribution  
+- 🕒 **Grouped Charts**: Number of Rides Distribution  
 - 📍 **Dashboard** or Station Analysis (via Tableau)
 
 ![Average Duration vs. Day](visuals/average_duration%20vs.%20Weekday.png)
