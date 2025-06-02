@@ -42,13 +42,14 @@ Cyclistic, a bike-share program in Chicago, aims to increase revenue by converti
 - Start and end timestamps  
 - Start and end station names  
 - Rider type (casual vs. member)  
-- Demographic info (gender, birth year — 2019 only)
+- Demographic info (gender, birth year — 2019 only, and latitudes and longtitudes on 2020 only)
 
 ---
 
 ## 🧼 Data Cleaning & Preparation
 
 **Tools Used:**  
+- Spreadsheets
 - RStudio  
 - BigQuery (SQL-based transformations)  
 - Tableau (for dashboards)
@@ -119,11 +120,13 @@ Include screenshots or links to Tableau/GitHub:
 - 🕒 **Histogram**: Hourly Ride Distribution  
 - 📍 **Dashboard** or Station Analysis (via Tableau)
 
-![Average Trip Duration vs. Usertype](visuals\AVERAGE%20of%20trip_duration vs. usertype.png)
 ![Average Duration vs. Day](visuals/average_duration%20vs.%20Weekday.png)
+![Number of Rides vs. Day](visuals\number_of_rides%20vs.%20Weekday.png)
+![Season vs. Usertype for trip duration](visuals\Spring,%20Winter%20and%20Grand%20Total%20(1).png)
+![Season vs. Usertype for number of trips](visuals\Spring,%20Winter%20and%20Grand%20Total.png)
+
 
 [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/fnu.abdullah3101/viz/CyclisticMostPopularStations/Dashboard1)
-
 
 ---
 
@@ -161,16 +164,12 @@ Cyclistic-Bike-Share-Analysis/
 ├── scripts/
 │ └── cyclistic_analysis.R
 │
-├── visuals/
-│ ├── ride_duration_boxplot.png
-│ ├── hourly_usage_histogram.png
-│ └── day_of_week_barplot.png
+├── visuals/ (All the visuals created for the data analysis)
 │
 ├── tableau/
 │ └── link-to-dashboard
 │
 ├── README.md
-└── cyclistic_case_study.pdf
 ```
 
 ---
