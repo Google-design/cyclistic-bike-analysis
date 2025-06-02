@@ -121,9 +121,9 @@ Include screenshots or links to Tableau/GitHub:
 - 📍 **Dashboard** or Station Analysis (via Tableau)
 
 ![Average Duration vs. Day](visuals/average_duration%20vs.%20Weekday.png)
-![Number of Rides vs. Day](visuals\number_of_rides%20vs.%20Weekday.png)
-![Season vs. Usertype for trip duration](visuals\Spring,%20Winter%20and%20Grand%20Total%20(1).png)
-![Season vs. Usertype for number of trips](visuals\Spring,%20Winter%20and%20Grand%20Total.png)
+![Number of Rides vs. Day](visuals/number_of_rides%20vs.%20Weekday.png)
+![Season vs. Usertype for trip duration](visuals/Spring,%20Winter%20and%20Grand%20Total%20(1).png)
+![Season vs. Usertype for number of trips](visuals/Spring,%20Winter%20and%20Grand%20Total.png)
 
 
 [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/fnu.abdullah3101/viz/CyclisticMostPopularStations/Dashboard1)
